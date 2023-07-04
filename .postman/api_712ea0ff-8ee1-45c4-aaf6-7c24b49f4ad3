@@ -9,6 +9,7 @@ id = 712ea0ff-8ee1-45c4-aaf6-7c24b49f4ad3
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"19653982-ed91854f-86a4-4591-9dbb-3aadbac99fe5","path":"Plex Media Server.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Tab\",\"parametersResolution\":\"Example\",\"folderStrategy\":\"Tags\",\"includeAuthInfoInExample\":true,\"enableOptionalParameters\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"alwaysInheritAuthentication\":false,\"updateCollectionSync\":true,\"requestParametersResolution\":\"Example\",\"exampleParametersResolution\":\"Example\"}"}}
 
 [config.relations.collections.metaData]
 
